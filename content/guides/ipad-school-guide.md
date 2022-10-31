@@ -1,10 +1,10 @@
 ---
 title: "Apps and Settings for your iPad"
 date: 2022-10-29T11:48:08+02:00
-draft: true
+draft: false
 ---
 
-More and more stundents switch from pen and paper to an iPad. However, when I just switched over to my iPad I felt a little lost. I did not which apps are actually useful and will improve my productivity and which are simply said, just a waste of space.<br>
+More and more stundents switch from pen and paper to an iPad. However, when I just switched over to my iPad I felt a little lost. I did not which apps are actually useful and will improve my productivity and which are simply said, just a waste of space.<br><br>Additionally, I ran out of my free iCloud storage which was a simple 
 So if you are just here for a quick overview: here you go
 
 - [Settings](#settings)
@@ -21,7 +21,7 @@ So if you are just here for a quick overview: here you go
 
 ### [1. Goodnotes](https://apps.apple.com/app/apple-store/id1444383602)
 
-Goodnotes is for me an absolute essential. Not only because it is a feature-rich and easy-to-use note taking app which works excellent with the Apple Pencil but also because it is widely used and therefore, great for collobaration.<br>
+Goodnotes is for me an absolute essential. Not only because it is a feature-rich and easy-to-use note taking app which works excellent with the Apple Pencil but also because it is widely used and therefore, great for collobaration.<br><br>
 This year the Goodnotes developers decided to remove the paywall and use a freemium model. In other words you can download the app right away and start taking notes. However, if you would like to support the developers and unlock all features, I highly recommend the pro version. 
 
 ### [2. Todoist](https://geo.itunes.apple.com/us/app/todoist-to-do-list-task-manager/id572688855)
