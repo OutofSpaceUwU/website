@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Space&#39;s Universe</title>
+    <link>/de/links/</link>
+    <description>Recent content in Links on Space&#39;s Universe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© OutofSpace 2022</copyright>
+    <lastBuildDate>Sat, 05 Nov 2022 12:34:30 +0100</lastBuildDate><atom:link href="/de/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontends</title>
+      <link>/de/links/frontends/</link>
+      <pubDate>Sat, 05 Nov 2022 12:34:30 +0100</pubDate>
+      
+      <guid>/de/links/frontends/</guid>
+      <description>Das hier ist eien Zusammenfassung der besten alternatien Front-Ends für kommerzielle Platformen.</description>
+    </item>
+    
+  </channel>
+</rss>

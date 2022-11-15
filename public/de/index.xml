@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space&#39;s Universe</title>
+    <link>/de/</link>
+    <description>Recent content on Space&#39;s Universe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© OutofSpace 2022</copyright>
+    <lastBuildDate>Sat, 05 Nov 2022 12:34:30 +0100</lastBuildDate><atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontends</title>
+      <link>/de/links/frontends/</link>
+      <pubDate>Sat, 05 Nov 2022 12:34:30 +0100</pubDate>
+      
+      <guid>/de/links/frontends/</guid>
+      <description>Das hier ist eien Zusammenfassung der besten alternatien Front-Ends für kommerzielle Platformen.</description>
+    </item>
+    
+    <item>
+      <title>Sozialemedien</title>
+      <link>/de/projekte/sozialemedien/</link>
+      <pubDate>Fri, 04 Nov 2022 16:41:32 +0100</pubDate>
+      
+      <guid>/de/projekte/sozialemedien/</guid>
+      <description>Das hier ist ein Test für die deutsche Hugo Seite.</description>
+    </item>
+    
+    <item>
+      <title>Und das Danke geht an...</title>
+      <link>/de/danke/</link>
+      <pubDate>Fri, 04 Nov 2022 13:33:39 +0100</pubDate>
+      
+      <guid>/de/danke/</guid>
+      <description>Favicon: # Die Grafiken sind urheberrechtlich von Twitter Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

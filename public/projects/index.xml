@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Space&#39;s Universe</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Space&#39;s Universe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© OutofSpace 2022</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 13:11:29 +0100</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sweetdreams</title>
+      <link>/projects/sweetdreams/</link>
+      <pubDate>Sun, 06 Nov 2022 13:11:29 +0100</pubDate>
+      
+      <guid>/projects/sweetdreams/</guid>
+      <description>This is my plan on how to achieve a healthy sleep rhythm.</description>
+    </item>
+    
+    <item>
+      <title>Socialmedia</title>
+      <link>/projects/socialmedia/</link>
+      <pubDate>Fri, 04 Nov 2022 16:42:45 +0100</pubDate>
+      
+      <guid>/projects/socialmedia/</guid>
+      <description>This is a test for the english hugo site.</description>
+    </item>
+    
+  </channel>
+</rss>
